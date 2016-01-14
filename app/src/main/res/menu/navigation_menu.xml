@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".main.widget.MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_home"
+            android:checked="true"
+            android:title="@string/navigation_home" />
+        <item
+            android:id="@+id/navigation_item_cook"
+            android:title="@string/navigation_cook" />
+
+        <item
+            android:id="@+id/navigation_item_lore"
+            android:title="@string/navigation_lore" />
+
+        <item
+            android:id="@+id/navigation_item_ask"
+            android:title="@string/navigation_ask" />
+
+        <item android:id="@+id/navigation_item_book"
+            android:title="@string/navigation_book" />
+    </group>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">YourHealth</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">杨小盼</string>
+    <string name="navigation_home">首页</string>
+    <string name="navigation_stars">收藏</string>
+
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="navigation_cook">健康食谱</string>
+    <string name="navigation_lore">健康知识</string>
+    <string name="navigation_news">健康资讯</string>
+    <string name="navigation_ask">健康一问</string>
+    <string name="navigation_book">健康图书</string>
+    <string name="title_activity_news_detail">NewsDetailActivity</string>
+    <string name="transition_news_img">transition_news_img</string>
+</resources>
